@@ -1,0 +1,16 @@
+{
+  "name": "ht2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "vite preview",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "vite": "^6.2.1"
+  }
+}
